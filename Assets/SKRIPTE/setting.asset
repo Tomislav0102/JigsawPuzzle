@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0e5df0945005945aac7148ae942682, type: 3}
+  m_Name: setting
+  m_EditorClassIdentifier: 
+  chosenSprite: {fileID: 0}
+  soundOn: 1
+  buttonClick:
+    klip: {fileID: 8300000, guid: 66fa6a83f52b55b4a9a1f6716498454e, type: 3}
+    volume: 0.606
+    pitch: 1
+  hoverPicture:
+    klip: {fileID: 8300000, guid: 38f5da09e6335244488b7b1bcd3dba63, type: 3}
+    volume: 0.088
+    pitch: 0.9
+  choosePicture:
+    klip: {fileID: 8300000, guid: 755ed657f8a07b34ea294c281794e159, type: 3}
+    volume: 0.584
+    pitch: 1
+  puzzlePickup:
+    klip: {fileID: 8300000, guid: f0728845edf0f474a8ad606bd5580df6, type: 3}
+    volume: 0.887
+    pitch: 1.39
+  puzzleSet:
+    klip: {fileID: 8300000, guid: f0728845edf0f474a8ad606bd5580df6, type: 3}
+    volume: 1
+    pitch: 0.67
+  puzzleReturnToOutside:
+    klip: {fileID: 8300000, guid: f0728845edf0f474a8ad606bd5580df6, type: 3}
+    volume: 0.86
+    pitch: 1
+  win:
+    klip: {fileID: 8300000, guid: a51cea27901c71d4b9370d8625ab0059, type: 3}
+    volume: 1
+    pitch: 1
